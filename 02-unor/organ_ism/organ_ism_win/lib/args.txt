@@ -1,0 +1,3 @@
+ -Xms64m -Xmx256m 
+organ_ism
+organ_ism.jar,core.jar,opengl.jar,jogl.jar

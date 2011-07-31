@@ -1,0 +1,4 @@
+#!/bin/bash
+smbclient \\\\192.168.0.10\\04\ \(c\)\\CurrentWorks\\External -U krystof
+smbciient put /sketchBook/12-prosinec/ghTalk/test.txt test.txt
+

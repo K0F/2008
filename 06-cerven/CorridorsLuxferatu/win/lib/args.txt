@@ -1,0 +1,3 @@
+ -Xms64m -Xmx512m
+CorridorsLuxferatu
+edtftpj-1.5.2.jar,CorridorsLuxferatu.jar,core.jar,interfascia.jar

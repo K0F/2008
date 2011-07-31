@@ -1,0 +1,6 @@
+#N canvas 20 86 1264 942 12;
+#X obj 70 65 sin;
+#X msg 118 65 messagess;
+#X floatatom 212 67 5 0 0 0 - - -;
+#X symbolatom 279 66 10 0 0 0 - - -;
+#X text 383 62 comment;

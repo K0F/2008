@@ -1,0 +1,29 @@
+Check
+http://www.xs4all.nl/~elout/sculptpaint/
+For latest information, updates or details on this program.
+
+Sculpypaint #0.92 released march 10 -  Elout de Kok ©2007/©2008
+Second Life name: Cel Edman
+E-mail: elout@xs4all.nl
+
+Allowed Sculptypaint use:
+- Individuals or small companies using Sculptypaint for there personal items, creations and sales.
+
+Not allowed, and not that nice..:
+- People selling imitation/look-alike sculpt-image (packs) created in Sculptypaint. That I myself sell in SL.
+- RL Companies employing more then 5 secondlife content creators; using objects created in Sculptypaint in there builds/projects, and/or selling them (cheap) on the market.
+Contact me in case you got any question, about a commercial license, etc. 
+
+Sculptypaint and source-code provided under the Creative Commons license.
+http://creativecommons.org/licenses/by-nc-sa/1.0/
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This software is provided to you "as is" and use it at your own risk.
+
+Build in Processing 0135 beta.
+http://processing.org/download/index.html 
+(download processing for free)
+
+
+
+

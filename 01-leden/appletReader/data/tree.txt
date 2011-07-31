@@ -1,0 +1,1637 @@
+Vìpis CESTY slo§ky svazku SketchBook
+S‚riov‚ Ÿ¡slo svazku je 0000EDBD 74D3:BE1F
+K:.
++---01-leden
+|   +---camView
+|   |   \---data
+|   +---DeFormeR2Lgt
+|   |   \---data
+|   +---dxfTest
+|   |   \---dxfTest
+|   +---GravityFields
+|   |   +---GravityLista
+|   |   |   \---data
+|   |   +---GravityLista2
+|   |   |   +---application.linux
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   +---application.macosx
+|   |   |   |   +---GravityLista2.app
+|   |   |   |   |   \---Contents
+|   |   |   |   |       +---MacOS
+|   |   |   |   |       \---Resources
+|   |   |   |   |           \---Java
+|   |   |   |   \---source
+|   |   |   +---application.windows
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   \---data
+|   |   +---GravityLista3
+|   |   |   \---data
+|   |   +---TheyLiesSomewhereDownside
+|   |   |   \---data
+|   |   \---TheyLiesSomewhereDownsidePnt
+|   |       +---application.windows
+|   |       \---data
+|   +---SitClasses
+|   |   +---sit
+|   |   +---sit2
+|   |   +---sit3
+|   |   +---sit3kol
+|   |   |   \---code
+|   |   +---sit3kolb
+|   |   |   \---code
+|   |   +---sit3_sophistic
+|   |   |   \---code
+|   |   +---sit4_PI_sophistic
+|   |   |   \---code
+|   |   \---sit4_sophistic
+|   |       \---code
+|   +---TeleVision
+|   |   +---ardPrinterTv
+|   |   |   \---data
+|   |   +---DeFormeR1
+|   |   |   \---data
+|   |   +---DeFormeR1Lgt
+|   |   |   +---application.linux
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   +---application.macosx
+|   |   |   |   +---DeFormeR1Lgt.app
+|   |   |   |   |   \---Contents
+|   |   |   |   |       +---MacOS
+|   |   |   |   |       \---Resources
+|   |   |   |   |           \---Java
+|   |   |   |   \---source
+|   |   |   +---application.windows
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   \---data
+|   |   +---DeFormeR2Lgt
+|   |   |   \---data
+|   |   +---DeFormeR3dLgt
+|   |   |   \---data
+|   |   +---DeFormeR3Lgt
+|   |   |   \---data
+|   |   +---DeFormeRec
+|   |   |   \---data
+|   |   +---PrinterTv
+|   |   |   +---application.linux
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   +---application.macosx
+|   |   |   |   +---PrinterTv.app
+|   |   |   |   |   \---Contents
+|   |   |   |   |       +---MacOS
+|   |   |   |   |       \---Resources
+|   |   |   |   |           \---Java
+|   |   |   |   \---source
+|   |   |   +---application.windows
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   \---data
+|   |   +---PrinterTv2
+|   |   |   \---data
+|   |   +---PrinterTv3
+|   |   |   +---application.linux
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   +---application.macosx
+|   |   |   |   +---PrinterTv3.app
+|   |   |   |   |   \---Contents
+|   |   |   |   |       +---MacOS
+|   |   |   |   |       \---Resources
+|   |   |   |   |           \---Java
+|   |   |   |   \---source
+|   |   |   +---application.windows
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   \---data
+|   |   +---TvMovements
+|   |   |   +---FinallyUndersandClass
+|   |   |   +---FinallyUndersandClassTV
+|   |   |   |   +---application.linux
+|   |   |   |   |   +---lib
+|   |   |   |   |   \---source
+|   |   |   |   +---application.macosx
+|   |   |   |   |   +---FinallyUndersandClassTV.app
+|   |   |   |   |   |   \---Contents
+|   |   |   |   |   |       +---MacOS
+|   |   |   |   |   |       \---Resources
+|   |   |   |   |   |           \---Java
+|   |   |   |   |   \---source
+|   |   |   |   \---application.windows
+|   |   |   |       +---lib
+|   |   |   |       \---source
+|   |   |   +---FinallyUndersandClassTV2
+|   |   |   |   +---application.linux
+|   |   |   |   |   +---lib
+|   |   |   |   |   \---source
+|   |   |   |   +---application.macosx
+|   |   |   |   |   +---FinallyUndersandClassTV2.app
+|   |   |   |   |   |   \---Contents
+|   |   |   |   |   |       +---MacOS
+|   |   |   |   |   |       \---Resources
+|   |   |   |   |   |           \---Java
+|   |   |   |   |   \---source
+|   |   |   |   \---application.windows
+|   |   |   |       +---lib
+|   |   |   |       \---source
+|   |   |   +---FinallyUndersandClassTV3
+|   |   |   +---FinallyUndersandClassTV3ani
+|   |   |   +---FinallyUndersandClassTV3ard
+|   |   |   \---FinallyUndersandClassTV3b
+|   |   |       +---application.linux
+|   |   |       |   +---lib
+|   |   |       |   \---source
+|   |   |       +---application.macosx
+|   |   |       |   +---FinallyUndersandClassTV3b.app
+|   |   |       |   |   \---Contents
+|   |   |       |   |       +---MacOS
+|   |   |       |   |       \---Resources
+|   |   |       |   |           \---Java
+|   |   |       |   \---source
+|   |   |       \---application.windows
+|   |   |           +---lib
+|   |   |           \---source
+|   |   +---Vas4
+|   |   |   +---application.linux
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   +---application.macosx
+|   |   |   |   +---source
+|   |   |   |   \---Vas4.app
+|   |   |   |       \---Contents
+|   |   |   |           +---MacOS
+|   |   |   |           \---Resources
+|   |   |   |               \---Java
+|   |   |   +---application.windows
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   \---data
+|   |   +---Vas5Oscill
+|   |   |   \---data
+|   |   +---Vas6Oscill
+|   |   |   \---data
+|   |   +---Vas7Oscill
+|   |   |   \---data
+|   |   \---Vas8Oscill
+|   |       \---data
+|   +---video_Charger
+|   |   \---data
+|   +---video_Distruptor
+|   |   +---data
+|   |   \---testas
+|   +---video_MiniCharger
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---source
+|   |   |   \---video_MiniCharger.app
+|   |   |       \---Contents
+|   |   |           +---MacOS
+|   |   |           \---Resources
+|   |   |               \---Java
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---data
+|   |   +---movies
+|   |   \---structures
+|   +---video_MiniParser
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---source
+|   |   |   \---video_MiniParser.app
+|   |   |       \---Contents
+|   |   |           +---MacOS
+|   |   |           \---Resources
+|   |   |               \---Java
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   \---data
+|   +---video_MiniRecOrder
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---source
+|   |   |   \---video_MiniRecOrder.app
+|   |   |       \---Contents
+|   |   |           +---MacOS
+|   |   |           \---Resources
+|   |   |               \---Java
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---data
+|   |   +---MiniAvFeeder
+|   |   |   \---lib
+|   |   +---miniParser
+|   |   |   \---movies
+|   |   \---movies
+|   +---video_Re_c_order
+|   |   +---applet
+|   |   +---application.windows
+|   |   |   +---data
+|   |   |   +---lib
+|   |   |   +---recompiled
+|   |   |   \---source
+|   |   +---data
+|   |   \---storage
+|   \---video_Re_c_orderCAM1
+|       +---application.linux
+|       |   +---lib
+|       |   \---source
+|       +---application.macosx
+|       |   +---source
+|       |   \---video_Re_c_orderCAM1.app
+|       |       \---Contents
+|       |           +---MacOS
+|       |           \---Resources
+|       |               \---Java
+|       +---data
+|       +---movies
+|       \---SmoothRecorder
+|           +---lib
+|           +---movies
+|           \---source
++---02-unor
+|   +---ArduinoReadRGB
+|   |   \---data
+|   +---ard_diode_read_green_music
+|   |   \---data
+|   +---ArrayMobile
+|   |   +---applet
+|   |   |   \---ArrayMobile
+|   |   |       +---META-INF
+|   |   |       \---processing
+|   |   |           \---core
+|   |   +---data
+|   |   \---PixelArray
+|   |       \---data
+|   +---atos live
+|   |   +---lib
+|   |   \---source
+|   +---bufferWorks
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---bufferWorks.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---data
+|   |   |   \---lib
+|   |   +---bufferWorks
+|   |   |   \---data
+|   |   \---data
+|   +---direct_DMP
+|   |   +---data
+|   |   \---structures
+|   +---direct_DMP2
+|   |   +---data
+|   |   \---structures
+|   +---direct_DMP3
+|   |   +---data
+|   |   \---structures
+|   +---direct_DMP3ts
+|   |   \---data
+|   +---icon
+|   |   \---data
+|   +---menu
+|   |   \---data
+|   +---menu2
+|   |   \---data
+|   +---menu3
+|   |   \---data
+|   +---OBJLoader_Sample
+|   |   +---data
+|   |   \---tmp
+|   +---PixelArray2
+|   |   \---data
+|   +---PixelArray3
+|   |   \---data
+|   +---PixelArray3b
+|   |   \---data
+|   +---PixelArray4
+|   |   \---data
+|   +---PixelArray4b
+|   |   \---data
+|   +---PixelArray5Hybrid
+|   |   \---data
+|   +---portrait
+|   |   +---data
+|   |   \---structures
+|   +---portraitRender
+|   |   +---data
+|   |   +---structures
+|   |   \---structures2
+|   +---portraitRenderBuff
+|   |   +---data
+|   |   +---structures
+|   |   \---structures2
+|   +---portraitRenderBuff2
+|   |   +---data
+|   |   \---structures
+|   +---simplePaint
+|   |   +---applet
+|   |   |   \---data
+|   |   +---data
+|   |   \---simplePaint
+|   |       \---data
+|   +---springExample
+|   \---zmap
++---03-brezen
+|   +---autorun
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---autorun.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   \---lib
+|   |   \---data
+|   +---boids_24
+|   +---boids_24b
+|   +---boids_24cLikeACrap
+|   +---boids_25
+|   +---boids_25graphical
+|   +---buttonTest
+|   |   \---data
+|   +---fluidSimExample
+|   +---ftpUploader
+|   |   \---code
+|   +---GravityFieldsTextual
+|   |   \---data
+|   +---GravityFieldsTextual_07
+|   |   \---data
+|   +---GUI
+|   |   +---applet
+|   |   +---code
+|   |   \---data
+|   +---GUI2
+|   |   +---CD
+|   |   |   +---data
+|   |   |   +---lib
+|   |   |   \---sources
+|   |   |       +---atos
+|   |   |       |   +---data
+|   |   |       |   \---lib
+|   |   |       +---gravity
+|   |   |       |   +---data
+|   |   |       |   \---lib
+|   |   |       +---invaders
+|   |   |       |   +---data
+|   |   |       |   \---lib
+|   |   |       +---jpgplr
+|   |   |       |   +---data
+|   |   |       |   \---lib
+|   |   |       +---pixJumper
+|   |   |       |   +---data
+|   |   |       |   \---lib
+|   |   |       +---sensible
+|   |   |       |   +---data
+|   |   |       |   +---lib
+|   |   |       |   \---source
+|   |   |       \---wave
+|   |   |           +---data
+|   |   |           +---lib
+|   |   |           \---source
+|   |   +---code
+|   |   +---data
+|   |   \---sources
+|   |       +---atos
+|   |       |   +---data
+|   |       |   +---lib
+|   |       |   \---source
+|   |       +---gravity
+|   |       |   +---data
+|   |       |   +---lib
+|   |       |   \---source
+|   |       +---invaders
+|   |       |   +---data
+|   |       |   +---lib
+|   |       |   \---source
+|   |       +---jpgplr
+|   |       |   +---data
+|   |       |   +---lib
+|   |       |   \---source
+|   |       +---pixJumper
+|   |       |   +---data
+|   |       |   +---lib
+|   |       |   \---source
+|   |       +---sensible
+|   |       |   +---data
+|   |       |   +---lib
+|   |       |   \---source
+|   |       \---wave
+|   |           +---data
+|   |           +---lib
+|   |           \---source
+|   +---HTTPClient2
+|   |   \---data
+|   +---JmEtudeTests
+|   +---jpgplrSimplified
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---jpgplrSimplified.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---data
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---data
+|   |   \---JpgSoundPlayer
+|   |       +---data
+|   |       \---lib
+|   +---kofEngine
+|   |   +---applet
+|   |   +---code
+|   |   +---data
+|   |   \---kofEngine
+|   |       \---data
+|   +---kofEngineApplet
+|   |   \---applet
+|   +---komplet
+|   |   +---code
+|   |   +---data
+|   |   \---sources
+|   |       +---atos
+|   |       |   +---data
+|   |       |   \---lib
+|   |       +---gravity
+|   |       |   +---data
+|   |       |   \---lib
+|   |       +---invaders
+|   |       |   +---data
+|   |       |   \---lib
+|   |       +---jpgplr
+|   |       |   +---data
+|   |       |   \---lib
+|   |       +---pixJumper
+|   |       |   +---data
+|   |       |   \---lib
+|   |       +---sensible
+|   |       |   +---data
+|   |       |   \---lib
+|   |       \---wave
+|   |           +---data
+|   |           \---lib
+|   +---Nov  slo§ka
+|   +---prezentace
+|   |   \---jars
+|   +---sinArtenoon_23
+|   |   \---data
+|   +---sinArtenoon_24
+|   |   \---data
+|   +---stringLoad
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---source
+|   |   |   \---stringLoad.app
+|   |   |       \---Contents
+|   |   |           +---MacOS
+|   |   |           \---Resources
+|   |   |               \---Java
+|   |   +---application.windows
+|   |   |   +---data
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---code
+|   |   +---data
+|   |   \---komplet
+|   |       \---data
+|   \---TvInterpretation
++---04-duben
+|   +---andel
+|   |   \---data
+|   +---animator
+|   |   +---data
+|   |   \---imgs
+|   +---ard_diode_read_red_MIDI
+|   |   +---data
+|   |   \---imgs
+|   +---ard_thermo_read_beta
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---ard_thermo_read_beta.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   \---lib
+|   |   +---data
+|   |   +---imgs
+|   |   \---thermoReader
+|   |       +---data
+|   |       +---imgs
+|   |       \---lib
+|   +---ard_thermo_read_beta_FTP
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---ard_thermo_read_beta_FTP.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---code
+|   |   +---data
+|   |   +---imgs
+|   |   |   \---temp
+|   |   \---thermoBetaFTP
+|   |       +---data
+|   |       +---imgs
+|   |       |   \---temp
+|   |       +---lib
+|   |       \---source
+|   +---ard_thermo_read_red_MIDI
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---ard_thermo_read_red_MIDI.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---data
+|   |   +---imgs
+|   |   \---thermotest
+|   |       +---data
+|   |       +---img
+|   |       \---lib
+|   +---balvan
+|   +---basicMovements
+|   +---classMassMovements
+|   |   \---data
+|   +---cursorCustomize
+|   +---dateManipulation
+|   |   \---data
+|   +---ftpUploaderBinTrnsfr
+|   |   +---code
+|   |   \---imgs
+|   +---funji
+|   +---GF_MIDI_Controller_01
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---GF_MIDI_Controller_01.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   \---data
+|   +---gifAnim
+|   |   \---data
+|   +---gifAnim2
+|   |   +---applet
+|   |   |   \---gifAnim2
+|   |   |       +---data
+|   |   |       +---META-INF
+|   |   |       \---processing
+|   |   |           \---core
+|   |   \---data
+|   +---imgToAscii
+|   |   \---data
+|   +---logosZtracen
+|   |   +---applet
+|   |   |   \---_notes
+|   |   +---code
+|   |   +---data
+|   |   \---site
+|   +---MentalniKrajiny
+|   |   +---balvan
+|   |   |   +---application.linux
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   +---application.macosx
+|   |   |   |   +---balvan.app
+|   |   |   |   |   \---Contents
+|   |   |   |   |       +---MacOS
+|   |   |   |   |       \---Resources
+|   |   |   |   |           \---Java
+|   |   |   |   \---source
+|   |   |   +---application.windows
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   +---data
+|   |   |   \---imgs
+|   |   \---imgs
+|   +---MIDI_Controller_Test_01
+|   +---MIDI_Tests_01
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---MIDI_Tests_01.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   +---midiPartiture
+|   |   |   \---source
+|   |   \---data
+|   +---noiserImage
+|   |   \---imgs
+|   +---noiserImage2
+|   |   +---imgs
+|   |   \---shots
+|   +---noiserImage3
+|   |   +---data
+|   |   \---imgs
+|   +---OpenGlApplet
+|   |   \---applet
+|   +---painterEntites
+|   +---painterEntites2
+|   +---painterEntites3
+|   +---postava
+|   |   \---postava
+|   |       +---data
+|   |       +---logosZtracen
+|   |       |   +---applet
+|   |       |   \---data
+|   |       \---logosZtracenVLese
+|   |           \---lib
+|   +---sroubovice3
+|   |   +---applet
+|   |   \---data
+|   +---sroubovice3d
+|   |   \---data
+|   +---sroubovice3d2
+|   |   +---applet
+|   |   |   \---sroubovice3d2
+|   |   \---data
+|   +---srouboviceTV
+|   |   \---data
+|   +---testP3D
+|   |   \---data
+|   +---testP3D2
+|   |   \---data
+|   +---texture
+|   |   \---data
+|   +---thermoRead
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---source
+|   |   |   \---thermoRead.app
+|   |   |       \---Contents
+|   |   |           +---MacOS
+|   |   |           \---Resources
+|   |   |               \---Java
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---data
+|   |   +---imgs
+|   |   \---thermostation
+|   \---verikal
++---05-kveten
+|   +---bitmapTransporter
+|   |   \---data
+|   +---bitmapTransporter2
+|   |   \---data
+|   +---bitmapTransporter3
+|   |   \---data
+|   +---camplrSimplifiedMidi
+|   |   \---data
+|   +---carDrone
+|   |   \---data
+|   +---ClassOperace
+|   +---directPix
+|   +---GL_feature
+|   |   \---data
+|   +---JachymStrahov07
+|   |   \---data
+|   +---livingMath
+|   +---livingMathInProgress
+|   +---ObjFine
+|   |   \---data
+|   +---OBJLoader_Crap
+|   |   \---data
+|   |       \---.mayaSwatches
+|   +---pixEx
+|   |   \---data
+|   +---pixEx2
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---pixEx2.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---data
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---data
+|   |   \---movies
+|   +---pixExperimental
+|   |   \---data
+|   +---Pointer
+|   +---Pointer2
+|   +---Pointer3
+|   +---retinalProjekce
+|   +---ropeMovement
+|   +---ropeMovement2
+|   +---ropeMovement3
+|   +---ropeMovement4
+|   +---sandExample
+|   +---selfExhiber
+|   |   \---data
+|   +---sequence
+|   |   \---data
+|   +---sequencePimage
+|   |   \---data
+|   +---shiffmanSteering
+|   +---simpleVector
+|   +---sinGen
+|   +---Steering3D
+|   |   \---data
+|   +---tvRevival
+|   |   \---data
+|   +---tvRevival2
+|   |   +---data
+|   |   \---movies
+|   +---tvRevival3
+|   |   +---data
+|   |   \---movies
+|   \---tvRevival4
+|       +---data
+|       \---movies
++---06-cerven
+|   +---AmebaCl_8
+|   +---appletSign
+|   |   \---applet
+|   +---appletSign2
+|   |   \---applet
+|   +---ClassInClass
+|   |   \---data
+|   +---ClassInClassSasanka3
+|   |   +---applet
+|   |   \---data
+|   +---ClassOperace
+|   +---ClientEmbol
+|   |   +---applet
+|   |   \---data
+|   +---ClipBoard
+|   |   \---data
+|   +---dinamicMotion_12
+|   +---dinamicMotion_12b
+|   +---dinamicMotion_12c
+|   +---dinamicMotion_12d
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---dinamicMotion_12d.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   \---application.windows
+|   |       +---lib
+|   |       \---source
+|   +---EmbolCommunicator
+|   |   +---applet
+|   |   \---data
+|   +---FileLoader
+|   |   +---applet
+|   |   |   \---FileLoader
+|   |   |       +---data
+|   |   |       +---META-INF
+|   |   |       \---processing
+|   |   |           \---core
+|   |   +---bundle
+|   |   |   \---_notes
+|   |   \---data
+|   +---FileWriter
+|   |   +---applet
+|   |   \---data
+|   +---gg
+|   |   +---applet
+|   |   \---data
+|   +---IcoFactory
+|   |   +---applet
+|   |   |   +---lib
+|   |   |   \---pngs
+|   |   +---data
+|   |   +---icofact
+|   |   |   +---lib
+|   |   |   \---pngs
+|   |   +---IcoFactory
+|   |   |   +---lib
+|   |   |   \---pngs
+|   |   +---lib
+|   |   \---pngs
+|   +---ImagDeFractum
+|   |   +---data
+|   |   +---icon
+|   |   +---results
+|   |   +---results2
+|   |   \---results3
+|   +---ImagDeFractumIcoComm
+|   |   \---data
+|   +---ImagFractum
+|   |   +---data
+|   |   +---results
+|   |   +---results2
+|   |   \---results3
+|   +---JachymStrahov07
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---JachymStrahov07.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---data
+|   |   |   +---bio
+|   |   |   +---model
+|   |   |   +---show
+|   |   |   +---strecha
+|   |   |   \---tribuna
+|   |   +---fineTune
+|   |   \---mess
+|   +---JachymStrahov07GUI
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---JachymStrahov07GUI.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---build
+|   |   +---complete
+|   |   |   +---data
+|   |   |   \---JachymPesekStrahov07
+|   |   |       +---com
+|   |   |       |   \---sun
+|   |   |       |       +---gluegen
+|   |   |       |       |   \---runtime
+|   |   |       |       \---opengl
+|   |   |       |           +---cg
+|   |   |       |           +---impl
+|   |   |       |           |   +---error
+|   |   |       |           |   +---glue
+|   |   |       |           |   +---macosx
+|   |   |       |           |   +---mipmap
+|   |   |       |           |   +---registry
+|   |   |       |           |   +---tessellator
+|   |   |       |           |   +---windows
+|   |   |       |           |   \---x11
+|   |   |       |           \---util
+|   |   |       |               \---texture
+|   |   |       |                   \---spi
+|   |   |       +---data
+|   |   |       |   +---bio
+|   |   |       |   +---model
+|   |   |       |   +---show
+|   |   |       |   +---strecha
+|   |   |       |   \---tribuna
+|   |   |       +---javax
+|   |   |       |   \---media
+|   |   |       |       \---opengl
+|   |   |       |           \---glu
+|   |   |       +---META-INF
+|   |   |       \---processing
+|   |   |           +---core
+|   |   |           \---opengl
+|   |   +---data
+|   |   |   +---bio
+|   |   |   +---model
+|   |   |   +---show
+|   |   |   +---strecha
+|   |   |   \---tribuna
+|   |   \---JachymPesekStrahov07GUI
+|   |       +---data
+|   |       \---lib
+|   +---JachymStrahov07noV
+|   |   \---data
+|   |       +---bio
+|   |       +---model
+|   |       +---show
+|   |       +---strecha
+|   |       \---tribuna
+|   +---JachymStrahov07_18
+|   |   +---applet
+|   |   \---data
+|   |       +---bio
+|   |       +---model
+|   |       +---show
+|   |       +---strecha
+|   |       \---tribuna
+|   +---machina01
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---machina01.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   \---data
+|   +---machina01b
+|   |   \---data
+|   +---machina02L
+|   |   \---data
+|   +---MachinaMovies
+|   |   +---machina01b
+|   |   |   \---data
+|   |   +---machina01_start
+|   |   |   \---data
+|   |   +---machinaL_Run
+|   |   |   \---data
+|   |   \---machinaL_Start
+|   |       \---data
+|   +---MassFullInteract_28
+|   |   \---MassFullInteract_28
+|   |       +---data
+|   |       \---outPut
+|   +---minim
+|   |   \---data
+|   +---mouseRelative
+|   +---movic
+|   |   \---data
+|   +---movie
+|   |   \---data
+|   +---ServerEmbol
+|   |   +---applet
+|   |   \---data
+|   +---sinExperiment_12
+|   |   \---applet
+|   |       \---sinExperiment_12
+|   |           +---META-INF
+|   |           \---processing
+|   |               \---core
+|   +---sinExperiment_13
+|   +---Tatsu01
+|   |   +---application.linux
+|   |   |   \---lib
+|   |   +---application.macosx
+|   |   |   \---Tatsu01.app
+|   |   |       \---Contents
+|   |   |           +---MacOS
+|   |   |           \---Resources
+|   |   |               \---Java
+|   |   \---application.windows
+|   |       \---lib
+|   +---Tatsu02
+|   |   \---applet
+|   \---Zip_6
+|       +---application.windows
+|       |   \---lib
+|       +---data
+|       \---lib
++---07-cervenec
+|   +---AmebaReviv
+|   +---AmebaReviv_2
+|   +---AmebaReviv_3
+|   +---ArduinoComm
+|   |   \---data
+|   +---brain
+|   |   \---applet
+|   |       \---brain
+|   |           +---build
+|   |           |   \---brain
+|   |           |       \---processing
+|   |           |           \---core
+|   |           +---ewe
+|   |           |   +---applet
+|   |           |   +---data
+|   |           |   +---database
+|   |           |   +---filechooser
+|   |           |   +---fx
+|   |           |   |   \---print
+|   |           |   +---graphics
+|   |           |   |   \---pagedisplay
+|   |           |   +---io
+|   |           |   +---math
+|   |           |   +---net
+|   |           |   +---reflect
+|   |           |   +---security
+|   |           |   +---sys
+|   |           |   +---ui
+|   |           |   |   \---formatted
+|   |           |   +---util
+|   |           |   |   \---zip
+|   |           |   \---zip
+|   |           +---ewex
+|   |           |   \---registry
+|   |           \---processing
+|   |               \---core
+|   +---DirListing
+|   |   +---applet
+|   |   +---data
+|   |   \---structure
+|   |       +---else
+|   |       +---new
+|   |       |   \---almostnew
+|   |       +---old
+|   |       \---skew
+|   +---DirListing2
+|   |   \---data
+|   +---DirTree
+|   |   +---applet
+|   |   \---data
+|   +---fireUpJs
+|   |   +---applet
+|   |   \---data
+|   +---Generative
+|   +---Generative2
+|   +---JavaHackMailer
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---JavaHackMailer.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---code
+|   |   \---data
+|   +---JavaMail
+|   |   \---code
+|   +---LlamaVision
+|   +---MassFullInteract_Strin
+|   |   \---data
+|   +---MassFullInteract_StrinBNet
+|   |   \---data
+|   +---MassFullInteract_StrinBNet2
+|   |   \---data
+|   +---openButt
+|   |   \---applet
+|   +---php
+|   +---PhpComm
+|   |   +---applet
+|   |   \---data
+|   +---PhpComm2
+|   |   +---applet
+|   |   \---data
+|   +---rw
+|   |   +---applet
+|   |   \---data
+|   +---sketch_070704a
+|   +---sketch_070715a
+|   |   \---data
+|   +---sketch_070729a
+|   |   \---applet
+|   +---sketch_070729b
+|   |   \---data
+|   +---testFrame
+|   |   \---data
+|   \---_3dRecorder
++---08-srpen
+|   +---ArdBeepMus
+|   +---charGen
+|   |   \---data
+|   +---fibonacci
+|   +---fibonacci2
+|   +---flicker
+|   +---GFTripodDriver0311
+|   |   \---data
+|   +---netVis
+|   +---netVis2
+|   |   \---data
+|   +---OchestrionEtapa1Mdl
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---OchestrionEtapa1Mdl.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---data
+|   |   |   \---lib
+|   |   \---data
+|   +---OkoStroje
+|   |   +---Cam
+|   |   +---FIlmGenerativ
+|   |   +---FIlmGenerativDV
+|   |   +---FilmGenerativScriptRead
+|   |   |   \---data
+|   |   +---FilmGenerativScriptReadToCut
+|   |   |   +---data
+|   |   |   \---input
+|   |   +---GFTripodDriver
+|   |   |   \---data
+|   |   +---GFTripodDriver0311
+|   |   |   \---data
+|   |   +---GFTripodDriver0313err
+|   |   |   \---data
+|   |   +---GFTripodDriver0314
+|   |   |   \---data
+|   |   \---GFTripodDriver0314sound
+|   |       \---data
+|   +---qrcode
+|   |   \---data
+|   +---sketch_070804a
+|   |   +---code
+|   |   \---data
+|   +---sketch_070819a
+|   |   \---data
+|   +---sketch_070822a
+|   |   \---data
+|   +---sketch_070824a
+|   |   \---data
+|   +---tray
+|   |   +---code
+|   |   \---data
+|   +---trayIco
+|   \---trayIcoB
+|       \---data
++---09-zari
+|   +---AnotherBoids
+|   +---A_V_Midi_Palyer_2
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---A_V_Midi_Palyer_2.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   \---lib
+|   |   +---compile
+|   |   |   \---data
+|   |   +---data
+|   |   \---icos
+|   +---Barcelona
+|   |   \---bitmaps
+|   |       \---panos
+|   +---boids_12
+|   +---DrawAShapesInfintly
+|   +---DrawAShapesInfintly2
+|   +---drawTheLineCatchTheWorld
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---drawTheLineCatchTheWorld.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   \---code
+|   +---GFTripodDriver0314soundTata50s
+|   |   \---data
+|   +---jpgplrSimplified
+|   |   \---data
+|   +---OA_Poster
+|   |   \---imgs
+|   +---OA_Poster2
+|   |   \---data
+|   +---OA_Poster3PDF
+|   |   \---data
+|   +---sketch_070905a
+|   |   \---code
+|   +---sketch_070912a
+|   +---sketch_070922a
+|   +---sketch_071006a
+|   |   \---data
+|   \---T120
++---10-rijen
+|   +---BioBoiDs
+|   +---BioBoiDsMov
+|   +---BlobsAreFillingTheSpace
+|   +---Lsys
+|   +---Lsys2
+|   +---PostScript
+|   +---sketch_071006a
+|   +---Sonic
+|   +---Storing
+|   +---Storing2
+|   +---Storing3
+|   |   \---data
+|   +---Storing3Mov
+|   |   \---data
+|   +---Storing3RGBComplexMov
+|   |   \---data
+|   +---Storing3RGBMov
+|   |   \---data
+|   +---Storing3Textur
+|   |   \---data
+|   +---StoringMovie
+|   +---SynTheR
+|   +---TextualFIelds
+|   |   \---data
+|   \---TextualFIeldsMov
+|       +---data
+|       \---output
++---11-listopad
+|   +---Brain
+|   +---BrainMovExperiment
+|   +---BrainMovExperiment2
+|   +---BrainProcessor
+|   +---BrainProcessor2
+|   +---BrainProcessor3
+|   |   \---data
+|   +---BrainProcessor4
+|   |   \---data
+|   +---BrainProcessorNew
+|   +---BrainProcessorNewPal
+|   +---camPlayerPrestavba
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---camPlayerPrestavba.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---build
+|   |   |   +---application.linux
+|   |   |   |   +---lib
+|   |   |   |   \---source
+|   |   |   +---application.macosx
+|   |   |   |   +---camPlayerPrestavba.app
+|   |   |   |   |   \---Contents
+|   |   |   |   |       +---MacOS
+|   |   |   |   |       \---Resources
+|   |   |   |   |           \---Java
+|   |   |   |   \---source
+|   |   |   \---application.windows
+|   |   |       +---data
+|   |   |       +---lib
+|   |   |       +---presets
+|   |   |       \---source
+|   |   +---data
+|   |   \---presets
+|   +---camPlayerPrestavbaExp
+|   |   \---data
+|   +---camplrSimplifiedMidi
+|   |   \---data
+|   +---GFTripodDriver0314sound
+|   |   +---applet
+|   |   +---build
+|   |   |   \---data
+|   |   \---data
+|   +---kolinear1
+|   +---neuroSys
+|   |   +---applet
+|   |   +---application.linux
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---application.macosx
+|   |   |   +---neuroSys.app
+|   |   |   |   \---Contents
+|   |   |   |       +---MacOS
+|   |   |   |       \---Resources
+|   |   |   |           \---Java
+|   |   |   \---source
+|   |   +---application.windows
+|   |   |   +---lib
+|   |   |   \---source
+|   |   +---build
+|   |   |   \---data
+|   |   \---data
+|   +---neuroSysB
+|   |   \---data
+|   +---neuroSysBFotka
+|   |   \---data
+|   +---neuroSysBMalba
+|   |   \---data
+|   +---neuroSysBMalba2
+|   |   \---data
+|   +---neuroSysBMalba3
+|   |   +---applet
+|   |   +---barvo
+|   |   +---data
+|   |   +---out
+|   |   +---out600
+|   |   \---out800
+|   +---neuroSysBMalba3mov
+|   |   \---data
+|   +---neuroSysBMalba4
+|   |   +---data
+|   |   +---kravata
+|   |   +---soub
+|   |   +---soubcb
+|   |   \---vystup
+|   +---neuroSysBMalba4mov
+|   |   +---data
+|   |   \---out
+|   +---neuroSysMov
+|   |   \---data
+|   +---neuroSysMov2
+|   |   \---data
+|   +---organism
+|   |   \---data
+|   +---organism2
+|   |   \---data
+|   +---organism2FW
+|   |   \---data
+|   +---organism2FWmov
+|   |   \---data
+|   +---organism3FW
+|   |   \---data
+|   +---organism3FWmov
+|   |   \---data
+|   +---organism3FWmovR
+|   |   \---data
+|   +---screenshot
+|   |   \---code
+|   \---stetec
+|       \---data
++---12-prosinec
+|   +---dav
+|   |   \---panacek
+|   +---dllTest
+|   |   \---code
+|   +---jEditTest
+|   |   +---build
+|   |   \---data
+|   +---odaNaKurzor
+|   |   +---build
+|   |   \---data
+|   +---pathFinderAI
+|   +---share
+|   |   +---GF_MIDI_Controller_01
+|   |   |   \---data
+|   |   +---MIDI_Tests_01
+|   |   |   \---data
+|   |   \---MIDI_Tests_02_MAP
+|   |       \---data
+|   +---sketch_071222a
+|   +---sketch_071222c
+|   +---sunFloaw
+|   +---sunFloaw2
+|   +---test
+|   +---testJ
+|   |   \---build
+|   +---vaNocniDepresScript
+|   +---vaNocniDepresScriptKompMov
+|   |   \---out
+|   +---vidManMalv
+|   |   +---data
+|   |   \---out
+|   +---vidManMalv2
+|   |   +---data
+|   |   \---out
+|   +---vrat
+|   +---vrat2
+|   +---wavDeriver
+|   +---wavMaker
+|   |   \---out
+|   +---wavMakerBmp
+|   |   +---data
+|   |   \---out
+|   +---wavMakerVid
+|   |   +---data
+|   |   \---out
+|   +---wavMakerVidSrc
+|   +---wavMakerVidSrcLine
+|   +---wavMakerVidSrcXY
+|   \---wavMakerVidSrcXYLowPass
+\---mess
+    +---#07
+    |   +---data
+    |   +---lib
+    |   +---source
+    |   \---sources
+    |       +---atos
+    |       |   +---data
+    |       |   \---lib
+    |       +---gravity
+    |       |   +---data
+    |       |   \---lib
+    |       +---invaders
+    |       |   +---data
+    |       |   \---lib
+    |       +---jpgplr
+    |       |   +---data
+    |       |   \---lib
+    |       +---pixJumper
+    |       |   +---data
+    |       |   \---lib
+    |       +---sensible
+    |       |   +---data
+    |       |   \---lib
+    |       \---wave
+    |           +---data
+    |           \---lib
+    +---ico work
+    +---prepare
+    |   +---atos
+    |   |   +---atos
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   \---video_DistruptorAtos
+    |   |       +---application.macosx
+    |   |       |   \---video_DistruptorAtos.app
+    |   |       |       \---Contents
+    |   |       |           +---MacOS
+    |   |       |           \---Resources
+    |   |       |               \---Java
+    |   |       +---atos
+    |   |       |   +---data
+    |   |       |   +---lib
+    |   |       |   \---source
+    |   |       \---data
+    |   +---DeFormeR2Lgt
+    |   |   +---application.linux
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   +---application.macosx
+    |   |   |   +---DeFormeR2Lgt.app
+    |   |   |   |   \---Contents
+    |   |   |   |       +---MacOS
+    |   |   |   |       \---Resources
+    |   |   |   |           \---Java
+    |   |   |   \---source
+    |   |   +---application.windows
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   \---data
+    |   +---gf
+    |   |   +---applet
+    |   |   |   \---data
+    |   |   +---application.linux
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   +---application.macosx
+    |   |   |   +---gf.app
+    |   |   |   |   \---Contents
+    |   |   |   |       +---MacOS
+    |   |   |   |       \---Resources
+    |   |   |   |           \---Java
+    |   |   |   \---source
+    |   |   +---application.windows
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   \---data
+    |   +---invaders
+    |   |   +---application.linux
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   +---application.macosx
+    |   |   |   +---invaders.app
+    |   |   |   |   \---Contents
+    |   |   |   |       +---MacOS
+    |   |   |   |       \---Resources
+    |   |   |   |           \---Java
+    |   |   |   \---source
+    |   |   +---application.windows
+    |   |   |   +---data
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   +---data
+    |   |   \---invaders
+    |   |       +---data
+    |   |       +---lib
+    |   |       \---source
+    |   +---jpgplr
+    |   |   +---application.linux
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   +---application.macosx
+    |   |   |   +---jpgplr.app
+    |   |   |   |   \---Contents
+    |   |   |   |       +---MacOS
+    |   |   |   |       \---Resources
+    |   |   |   |           \---Java
+    |   |   |   \---source
+    |   |   +---data
+    |   |   \---jpgplr
+    |   |       +---data
+    |   |       +---lib
+    |   |       \---source
+    |   +---Matix_INVADERS
+    |   |   \---data
+    |   +---pixJumper
+    |   |   +---data
+    |   |   +---pixJumper
+    |   |   |   +---data
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   \---scaled
+    |   +---Sensible3_14
+    |   |   +---application.linux
+    |   |   |   +---lib
+    |   |   |   \---source
+    |   |   +---application.macosx
+    |   |   |   +---Sensible3_14.app
+    |   |   |   |   \---Contents
+    |   |   |   |       +---MacOS
+    |   |   |   |       \---Resources
+    |   |   |   |           \---Java
+    |   |   |   \---source
+    |   |   +---code
+    |   |   +---data
+    |   |   \---Sensible3_14
+    |   |       +---data
+    |   |       +---lib
+    |   |       \---source
+    |   \---wave
+    |       +---application.linux
+    |       |   +---lib
+    |       |   \---source
+    |       +---application.macosx
+    |       |   +---source
+    |       |   \---wave.app
+    |       |       \---Contents
+    |       |           +---MacOS
+    |       |           \---Resources
+    |       |               \---Java
+    |       +---data
+    |       \---wave
+    |           +---data
+    |           +---lib
+    |           \---source
+    \---simpleVector

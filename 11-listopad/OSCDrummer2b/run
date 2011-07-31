@@ -1,0 +1,3 @@
+#!/bin/bash
+ cd /home/krystof/data/sketchBook/11-listopad/OSCDrummer2b/application.linux 
+gnome-terminal -x ./OSCDrummer2b & pd ./oscSoundifier.pd

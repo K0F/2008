@@ -1,0 +1,4 @@
+#!/bin/sh
+
+APPDIR=$(dirname "$0")
+java  -Djava.library.path="$APPDIR" -cp "$APPDIR/lib/edtftpj-1.5.2.jar:$APPDIR/lib/CorridorsLuxferatu.jar:$APPDIR/lib/core.jar:$APPDIR/lib/interfascia.jar" CorridorsLuxferatu

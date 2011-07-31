@@ -1,0 +1,3 @@
+ -Xms64m -Xmx512m
+gaudOneComplexCoor2
+gaudOneComplexCoor2.jar,core.jar,physics.jar
